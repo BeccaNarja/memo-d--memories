@@ -1,4 +1,4 @@
-memo-d--memories
+memo-d-memories
 ================
 
 Capturing Life's goodness
